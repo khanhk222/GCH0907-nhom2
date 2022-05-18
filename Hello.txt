@@ -2,10 +2,7 @@ Hello
 Nguyen Gia Khanh
 Nguyen Duc Anh
 Nguyen Gia Khanh
-<<<<<<< HEAD
 Nguyen Ducc Canh
-Add new
-=======
 Nguyen Duk Canh
 Nguyen Viet Ha
 Giap Minh Duc
