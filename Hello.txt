@@ -1,5 +1,4 @@
 Hello
-<<<<<<< Updated upstream
 Nguyen Gia Khanh
 Nguyen Duc Anh
 Nguyen Gia Khanh
