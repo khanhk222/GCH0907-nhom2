@@ -8,17 +8,5 @@ Nguyen Ducc Canh
 Add new
 =======
 Nguyen Duk Canh
-=======
-<<<<<<< HEAD
-Nguyen GIa Khanh
-Nguyen Duc Anh
 Nguyen Viet Ha
-=======
-Nguyen Gia Khanh
-Nguyen Duc Anh
-Nguyen Gia Khanh
->>>>>>> 6bcfac9ffa0aaa8ba4145b7a5473eceebd594ef2
->>>>>>> Stashed changes
-
-NguyenVietHa
-
+Giap Minh Duc
